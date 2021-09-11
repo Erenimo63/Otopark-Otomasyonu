@@ -1,0 +1,53 @@
+C:\Users\90507\source\repos\Otopark\Otopark\bin\Debug\Otopark.exe.config
+C:\Users\90507\source\repos\Otopark\Otopark\bin\Debug\Otopark.exe
+C:\Users\90507\source\repos\Otopark\Otopark\bin\Debug\Otopark.pdb
+C:\Users\90507\source\repos\Otopark\Otopark\obj\Debug\Otopark.csprojAssemblyReference.cache
+C:\Users\90507\source\repos\Otopark\Otopark\obj\Debug\Otopark.Form1.resources
+C:\Users\90507\source\repos\Otopark\Otopark\obj\Debug\Otopark.kayit.resources
+C:\Users\90507\source\repos\Otopark\Otopark\obj\Debug\Otopark.Properties.Resources.resources
+C:\Users\90507\source\repos\Otopark\Otopark\obj\Debug\Otopark.csproj.GenerateResource.cache
+C:\Users\90507\source\repos\Otopark\Otopark\obj\Debug\Otopark.exe
+C:\Users\90507\source\repos\Otopark\Otopark\obj\Debug\Otopark.pdb
+C:\Users\90507\source\repos\Otopark\Otopark\obj\Debug\Otopark.anasayfa.resources
+C:\Users\90507\source\repos\Otopark\Otopark\obj\Debug\Otopark.acikotopark.resources
+C:\Users\90507\source\repos\Otopark\Otopark\obj\Debug\Otopark.kapaliotopark.resources
+C:\Users\90507\source\repos\Otopark\Otopark\obj\Debug\Otopark.mustericikis.resources
+C:\Users\90507\source\repos\Otopark\Otopark\obj\Debug\Otopark.arsiv.resources
+C:\Users\90507\source\repos\Otopark\Otopark\bin\Debug\EntityFramework.dll
+C:\Users\90507\source\repos\Otopark\Otopark\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90507\source\repos\Otopark\Otopark\bin\Debug\System.Data.SQLite.dll
+C:\Users\90507\source\repos\Otopark\Otopark\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\90507\source\repos\Otopark\Otopark\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\90507\source\repos\Otopark\Otopark\bin\Debug\EntityFramework.xml
+C:\Users\90507\source\repos\Otopark\Otopark\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90507\source\repos\Otopark\Otopark\bin\Debug\System.Data.SQLite.xml
+C:\Users\90507\source\repos\Otopark\Otopark\obj\Debug\Otopark.csproj.CopyComplete
+C:\Users\90507\source\repos\Otopark\Otopark\bin\Debug\db\Otopark.db
+C:\Users\90507\source\repos\Otopark\Otopark\obj\Debug\Otopark.sorgu.resources
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\bin\Debug\db\Otopark.db
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\bin\Debug\Otopark.exe.config
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\bin\Debug\Otopark.exe
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\bin\Debug\Otopark.pdb
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\bin\Debug\EntityFramework.dll
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\bin\Debug\System.Data.SQLite.dll
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\bin\Debug\EntityFramework.xml
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\bin\Debug\System.Data.SQLite.xml
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.csprojAssemblyReference.cache
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.acikotopark.resources
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.anasayfa.resources
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.arsiv.resources
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.Form1.resources
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.kapaliotopark.resources
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.kayit.resources
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.mustericikis.resources
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.Properties.Resources.resources
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.sorgu.resources
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.csproj.GenerateResource.cache
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.csproj.CopyComplete
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.exe
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.pdb
+C:\Users\90507\Desktop\Eren Ödev\Sistem Analizi\221903557 Eren Atay\Otopark\Otopark\obj\Debug\Otopark.abone.resources
